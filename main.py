@@ -71,7 +71,7 @@ maxHints = 3
 
 games = []
 
-dev_ID = 530447806985404426
+dev_ID = 0
 
 @bot.command()
 async def dev(ctx):
